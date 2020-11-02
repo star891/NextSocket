@@ -1,5 +1,0 @@
-{"topic":"/nfl/game/NFL_20190106_LAC@BAL/leaders","stamp":"Sun Jan 6 2019 04:01:09 GMT-0500 (EST)","body":{"leaders":{"team":[]}},"eventType":"setState1"}
-{"topic":"/nfl/game/NFL_20190106_LAC@BAL/plays","stamp":"Sun Jan 6 2019 04:01:09 GMT-0500 (EST)","body":{"plays":{}},"eventType":"setState2"}
-{"topic":"/nfl/game/NFL_20190106_LAC@BAL/scores","stamp":"Sun Jan 6 2019 04:01:09 GMT-0500 (EST)","body":{"scores":{}},"eventType":"setState3"}
-{"topic":"/nfl/game/NFL_20190106_LAC@BAL/drives","stamp":"Sun Jan 6 2019 04:01:09 GMT-0500 (EST)","body":{"drives":{}},"eventType":"setState4"}
-{"topic":"/nfl/game/NFL_20190106_LAC@BAL/ps","stamp":"Sun Jan 6 2019 04:01:09 GMT-0500 (EST)","body":{"player_stats":{"team":[]}},"eventType":"setState5"}
